@@ -1,0 +1,16 @@
+# Ignore virtual environment
+venv*/
+**/__pycache__/
+
+# Ignore datasets
+dataset/
+workout_frames/
+
+# Ignore model & large files
+*.tflite
+*.joblib
+
+# Ignore temp files
+*.DS_Store
+*.mp4
+*.jpg
